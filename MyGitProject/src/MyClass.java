@@ -5,4 +5,5 @@ public class MyClass {
 		System.out.println("Hello world");
 	};
 
+	public void myMethod() {};
 }
