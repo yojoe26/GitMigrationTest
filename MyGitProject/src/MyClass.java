@@ -5,5 +5,6 @@ public class MyClass {
 		System.out.println("Hello to the world");
 		int crazyJuicy = 10;
 		String ballsOfFire;
+		String conflict = "bar";
 	};
 }
